@@ -13,3 +13,8 @@ echo "PALMEIRAS SEM MUNDIAL";
 echo "PALMEIRAS SEM MUNDIAL";
 echo "PALMEIRAS SEM MUNDIAL";
 ?>
+
+<?php
+echo "corinthians maior do mundo";
+echo "que tristeza";
+?>
